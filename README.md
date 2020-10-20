@@ -3,7 +3,7 @@
 ### 概述
 #### 开发环境
 > JDK 1.8
-> IntelliJ IDEA 2020.1.2 x64
+> IntelliJ IDEA 2019.3.5 x64
 > Maven 3.6.1
 
 #### 技术栈
